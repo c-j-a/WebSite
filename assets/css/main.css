@@ -2300,8 +2300,8 @@ input, select, textarea {
 /* Wrapper */
 
     .wrapper {
-        margin-bottom: 2em;
-        padding: 3em;
+        /* margin-bottom: 2em; */
+        padding: 2em;
     }
 
         .wrapper.style1 {
@@ -3448,6 +3448,7 @@ input, select, textarea {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    text-align: left;
 }
 .fill-v {
     width:100%;
@@ -3461,4 +3462,7 @@ input, select, textarea {
     padding-top: -30px;
     /* top: -250px; */
     /* visibility: hidden; */
+}
+.li-space {
+    padding-right: 0.5em;
 }
