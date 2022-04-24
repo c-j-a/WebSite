@@ -3462,3 +3462,27 @@ input, select, textarea {
 .li-space {
     padding-right: 0.5em;
 }
+.text-left {
+    text-align: left;
+}
+.footnote {
+    font-size: .75em;
+    letter-spacing: 0.1em;
+    font-style: italic;
+}
+.sp {
+    margin-top: 1em;
+}
+.sp-sm {
+    margin-top: .5em;
+}
+.question {
+    /* font-weight: bold; */
+    color: inherit;
+    font-weight: 500;
+    /* line-height: 1.75em; */
+    /* margin-bottom: 1em; */
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+}
